@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nom": "Othman",
+        "cognom": "Tabeche",
+        "curs": "DAW"
+    },
+    {
+        "id": 2,
+        "nom": "Luis",
+        "cognom": "Tabilo",
+        "curs": "DAM"
+    }
+]
